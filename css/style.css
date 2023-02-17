@@ -1,0 +1,295 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body{
+	background-color:#2b9fd3b3;
+}
+.flex-item-1{
+	width:8.33%;
+	flex:0 0 auto;
+	padding:0px 15px;
+}
+.flex-item-2{
+	width:16.66%;
+	flex:0 0 auto;
+	padding:0px 15px;
+}
+.flex-item-3{
+	width:25%;
+	flex:0 0 auto;
+	padding:0px 15px;
+}
+.flex-item-4{
+	width:33.33%;
+	flex:0 0 auto;
+	padding:0px 15px;
+}
+.flex-item-5{
+	width:41.66%;
+	flex:0 0 auto;
+	padding:0px 15px;
+}
+.flex-item-6{
+	width:50%;
+	flex:0 0 auto;
+	padding:0px 15px;
+}
+.flex-item-7{
+	width:58.33%;
+	flex:0 0 auto;
+	padding:0px 15px;
+}
+.flex-item-8{
+	width:66.66%;
+	flex:0 0 auto;
+	padding:0px 15px;
+}
+.flex-item-9{
+	width:75%;
+	flex:0 0 auto;
+	padding:0px 15px;
+}
+.flex-item-10{
+	width:83.33%;
+	flex:0 0 auto;
+	padding:0px 15px;
+}
+.flex-item-11{
+	width:91.66%;
+	flex:0 0 auto;
+	padding:0px 15px;
+}
+.flex-item-12{
+	width:100%;
+	flex:0 0 auto;
+	padding:0px 15px;
+}
+.flex-item-05{
+	width:20%;
+	flex:0 0 auto;
+	padding:0px 15px;
+}
+.header{
+	width:100%;
+}
+.container{
+	width:1160px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex-container{
+	display:flex;
+	flex-wrap:wrap;
+	margin-left:-15px;
+	margin-right:-15px;
+	padding-left:15px;
+	padding-right:15px;
+}
+.header{
+	width:100%;
+	height:auto;
+	padding:50px 0px;
+	background-color:#2b9fd3b3;
+}
+.Gp{
+	background-color:white;
+	height:40px;
+	width:auto;
+	margin-right:50px;
+}
+.nav-bar{
+	background-color:white;
+	height:40px;
+	width:auto;
+	margin:0px 120px;
+}
+.start{
+	background-color:white;
+	height:40px;
+	width:auto;
+	margin-left:30px;
+}
+.power{
+	height:200px;
+	width:400px;
+	background-color:white;
+	margin:20px auto;
+}
+.loram{
+	height:120px;
+	width:auto;
+	background-color:white;
+	/* margin:10px; */
+}
+.loram1{
+	height:120px;
+	width:auto;
+	background-color:white;
+	
+}
+.loram2{
+	height:120px;
+	width:auto;
+	background-color:white;
+	
+}
+.img-content{
+	padding:50px 0px;
+}
+.voluptatem{
+	background-color:white;
+	height:500px;
+}
+.img{
+	background-color:white;
+	height:500px;
+}
+.logos{
+	background-color:#2b9fd3b3;
+	padding:50px 0px;
+}
+.logo{
+	background-color:white;
+	width:auto;
+	height:50px;
+}
+.content-image{
+	padding:50px 0px;
+}
+.image{
+	background-color:white;
+	height:400px;
+}
+.content{
+	background-color:white;
+	height:400px;
+}
+.two{
+	padding:0px;
+	margin:opx;
+}
+.con-1{
+	background-color:white;
+	height:80px;
+	width:100%;
+	margin:0px 0px 26px 0px; 
+}
+.con{
+	background-color:white;
+	height:80px;
+	width:100%;
+	margin:0px 0px 26px 0px; 
+}
+.box-6{
+	background-color:#2b9fd3b3;
+	padding:50px 0px;
+}
+.service{
+	background-color:white;
+	height:20px;
+	
+}
+.chek{
+	background-color:white;
+	height:40px;
+	margin-top:20px;
+}
+.box{
+	background-color:white;
+	height:300px;
+	margin-top:30px;
+}
+.callto{
+	padding:50px 0px;
+}
+.action{
+	background-color:white;
+	height:200px;
+	margin:20px auto;
+}
+.box-9{
+	background-color:#2b9fd3b3;
+	padding:50px 0px;
+}
+.name{
+	background-color:white;
+	margin:20px 0px;
+	height:60px;
+}
+.img1{
+	background-color:white;
+	height:400px;
+	width:auto;
+	margin-bottom:20px;
+}
+.img2{
+	background-color:white;
+	height:260px;
+	width:auto;
+	margin-bottom:20px;
+}
+.img3{
+	background-color:white;
+	height:200px;
+	width:auto;
+	margin-bottom:20px;
+}
+.big{
+	background-color:white;
+	height:400px;
+	width:auto;
+	margin-bottom:20px;
+
+}
+.all{
+	height:30px;
+	width:auto;
+	background-color:white;
+	margin:20px 20px;
+}
+.center{
+	padding:0px 163px 0px 370px;
+}
+.quais{
+	background-color:white;
+	height:50px;
+	width:auto;
+}
+.service-1{
+	background-color:white;
+	height:135px;
+	margin-bottom:20px;
+}
+.service-2{
+	background-color:white;
+	height:100px;
+	margin-top:20px;
+}
+.location{
+	padding:50px 0px;
+}
+.location-1{
+	padding:50px 0px;
+	background-color:#2b9fd3b3;
+}
+.locat{
+	background-color:white;
+	height:250px;
+}
+.end{
+	background-color:#fff;
+	padding:50px 0px;
+}
+.bg-image{
+	background-color:#ccc;
+	padding:50px 0px;
+}
+.img-1{
+	background-color:white;
+	width:auto;
+	height:300px;
+}
